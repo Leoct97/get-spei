@@ -1,0 +1,10 @@
+#variables de entorno
+.env
+
+#entorno virtual
+/spei
+
+#binarios
+__pycache__/
+__pycache__
+.vscode
